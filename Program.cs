@@ -7,7 +7,7 @@ namespace Develope_2_HomeWork
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Работа через индексатор. Размер long");
+            Console.WriteLine("Работа через индексатор");
             Console.WriteLine("Запись 1 с последующим стиранием в каждый разряд:");
 
             Bits b1 = new Bits((byte)0);
